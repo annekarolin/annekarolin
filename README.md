@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 -->
 ## meu nome é Anne,tenho 20 anos.
@@ -22,5 +22,14 @@ Here are some ideas to get you started:
 ## Musica
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-## trabalho atualmente com prevençao a fraude
-## ensino medio completo
+## trabalha com?
+### atualmente trabalho com prevenção a fraude pra VISA na cybersource
+# ensino medio completo
+## data do aniversário 
+### Faço aniversário dia 7 de dezembro
+## curiosidades?
+### torço pro Flamengo 
+# pronome?
+## ela/dela
+## Estudando?
+### Atualmente estudando desenvolvimento de sistemas 
