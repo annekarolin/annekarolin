@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 ## ela/dela
 ## Estudando?
 ### Atualmente estudando desenvolvimento de sistemas 
+## Amo ouvir músicas
+## • aberta a aprender coisas novas
